@@ -2,6 +2,7 @@
 https://www.homedepot.com/s/respirator?NCNI-5
 https://www.walmart.com/search?q=respirator&facet=fulfillment_method_in_store%3AIn-store
 https://www.harborfreight.com/search?q=respirator
+https://www.lowes.com/search?searchTerm=respirator
 
 # index:
 https://www.harborfreight.com/welding-silica-concrete-dust-mold-respirator-large-56987.html
