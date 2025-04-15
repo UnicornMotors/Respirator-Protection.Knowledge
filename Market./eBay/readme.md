@@ -5,7 +5,6 @@ https://www.ebay.com/sch/i.html?_nkw=3m+respirator+mask&_sacat=0&_from=R40&_trks
 $23.79
 - https://www.ebay.com/itm/224035717495
 - https://www.ebay.com/itm/231562975164
-- https://www.ebay.com/itm/231562975164
 
 ## has size:
 24.75
